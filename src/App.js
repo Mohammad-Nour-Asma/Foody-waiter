@@ -75,7 +75,7 @@ function App() {
     <Box
       sx={{
         minHeight: "100vh",
-        padding: "2rem 0.5rem",
+        padding: "1rem 0.5rem",
       }}
     >
       <Notifications />
